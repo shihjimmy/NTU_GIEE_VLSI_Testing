@@ -1,3 +1,7 @@
+# VLSI Testing
+> This course aims at making students familiar with various VLSI testing techniques.  
+> This repo contains all the homework from this course.  
+
 # PA1
 - ### **Single stuck-at faults simulation and dropping in VLSI testing**
 - **Key Functions:**
